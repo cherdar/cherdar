@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cherdar
 - 👀 I’m interested in learning Python, HTML and CSS (although I am open to any program language)
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on nothing, as I don't have enough level right now
+- 💞️ I’m looking to collaborate nowhere, as I don't have enough level right now
 - 📫 How to reach me ...
 
 <!---
